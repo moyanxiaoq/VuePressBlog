@@ -1,0 +1,37 @@
+{
+  "name": "vue-press-blog",
+  "version": "0.0.1",
+  "description": "vuepress blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moyanxiaoq/moyanxiaoq.github.io.git"
+  },
+  "keywords": [
+    "vuepress",
+    "blog"
+  ],
+  "author": "chenzhiq",
+  "homepage": "",
+  "devDependencies": {
+    "@vssue/api-github-v3": "^1.4.3",
+    "@vssue/vuepress-plugin-vssue": "^1.4.3",
+    "@vuepress/plugin-back-to-top": "^1.4.0",
+    "@vuepress/theme-blog": "^2.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "vue-draggable-resizable-gorkys": "^2.3.6",
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-baidu-autopush": "^1.0.1",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-container": "^2.1.2",
+    "vuepress-plugin-copyright": "^1.0.2",
+    "vuepress-plugin-medium-zoom": "^1.1.8",
+    "vuepress-plugin-nprogress": "^1.1.6"
+  },
+  "dependencies": {}
+}
