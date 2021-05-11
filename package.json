@@ -23,7 +23,7 @@
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "@vuepress/theme-blog": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "vue-draggable-resizable-gorkys": "^2.3.6",
     "vuepress": "^1.4.0",
