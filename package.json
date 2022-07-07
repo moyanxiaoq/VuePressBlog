@@ -24,7 +24,7 @@
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "@vuepress/theme-blog": "^2.2.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vue-draggable-resizable-gorkys": "^2.3.6",
     "vuepress": "^1.4.0",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
